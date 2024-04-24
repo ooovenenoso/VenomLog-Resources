@@ -1,0 +1,36 @@
+OwnerID "ooovenenoso"
+recyclernextrecycletime 0.4
+recyclerstarttime 0.4
+
+modifiers.setmodifier "stones" collection 5
+modifiers.setmodifier "wood" collection 5
+modifiers.setmodifier "metal.ore" collection 5
+modifiers.setmodifier "sulfur.ore" collection 5
+
+modifiers.setmodifier "stones" gather 5
+modifiers.setmodifier "wood" gather 5
+modifiers.setmodifier "metal.ore" gather 5
+modifiers.setmodifier "sulfur.ore" gather 5
+modifiers.setmodifier "hq.metal.ore" gather 5
+
+
+modifiers.setmodifier "scrap" loot 5
+modifiers.setmodifier "crude.oil" loot 5
+modifiers.setmodifier "lowgradefuel" loot 5
+
+
+modifiers.setmodifier "metal.ore" cookspeed 5
+modifiers.setmodifier "sulfur.ore" cookspeed 5
+modifiers.setmodifier "crude.oil" cookspeed 5
+modifiers.setmodifier "hq.metal.ore" cookspeed 5
+
+
+banitem "bucket.water" "NoItemSpawn"
+banitem "bucket.water" "NoCrafting"
+
+inventory.adddefaultitem "axe.salvaged"
+inventory.adddefaultitem "icepick.salvaged"
+inventory.adddefaultitem "hazmatsuit"
+inventory.adddefaultitem "pistol.python"
+inventory.adddefaultitem "ammo.pistol" 30
+inventory.adddefaultitem "bandage" 25
