@@ -1,0 +1,52 @@
+🔫 pvpkit1
+
+kit add pvpkit1 smg.thompson 1 1 Belt
+kit add pvpkit1 hazmatsuit 1 1 Wear
+kit add pvpkit1 ammo.pistol 128 1 Main
+kit add pvpkit1 syringe.medical 6 1 Main
+kit add pvpkit1 weapon.mod.holosight 1 1 Main
+🔫 pvpkit2
+
+kit add pvpkit2 smg.mp5 1 1 Belt
+kit add pvpkit2 coffeecan.helmet 1 1 Wear
+kit add pvpkit2 roadsign.jacket 1 1 Wear
+kit add pvpkit2 roadsign.kilt 1 1 Wear
+kit add pvpkit2 ammo.pistol 128 1 Main
+kit add pvpkit2 syringe.medical 6 1 Main
+kit add pvpkit2 shoes.boots 1 1 Wear
+kit add pvpkit2 pants 1 1 Wear
+kit add pvpkit2 hoodie 1 1 Wear
+kit add pvpkit2 tactical.gloves 1 1 Wear
+kit add pvpkit2 weapon.mod.holosight 1 1 Main
+🔫 pvpkit3
+
+kit add pvpkit3 rifle.ak 1 1 Belt
+kit add pvpkit3 ammo.rifle 128 1 Main
+kit add pvpkit3 metal.facemask 1 1 Wear
+kit add pvpkit3 metal.plate.torso 1 1 Wear
+kit add pvpkit3 pants 1 1 Wear
+kit add pvpkit3 shoes.boots 1 1 Wear
+kit add pvpkit3 hoodie 1 1 Wear
+kit add pvpkit3 tactical.gloves 1 1 Wear
+kit add pvpkit3 weapon.mod.holosight 1 1 Main
+kit add pvpkit3 syringe.medical 6 1 Main
+🧱 builderkit1
+
+kit add builderkit1 wood 7500 1 Main
+kit add builderkit1 stones 5000 1 Main
+kit add builderkit1 metal.fragments 3000 1 Main
+kit add builderkit1 metal.refined 100 1 Main
+🧱 builderkit2
+
+
+kit add builderkit2 wood 10000 1 Main
+kit add builderkit2 stones 7500 1 Main
+kit add builderkit2 metal.fragments 5000 1 Main
+kit add builderkit2 metal.refined 200 1 Main
+🧱 builderkit3
+
+
+kit add builderkit3 wood 20000 1 Main
+kit add builderkit3 stones 15000 1 Main
+kit add builderkit3 metal.fragments 10000 1 Main
+kit add builderkit3 metal.refined 400 1 Main
